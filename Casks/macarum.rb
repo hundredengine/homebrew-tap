@@ -1,6 +1,6 @@
 cask "macarum" do
-  version "0.5.0"
-  sha256 "296103bb555d93f3e63e19966b9722bdc0dd5fe5008c999a81429a5029474027"
+  version "1.0.0"
+  sha256 "680566125efacff5957fe678298f0c2c94dd8610ecbe160f03268c49cfc2c278"
 
   url "https://hundredengine.id/download/macarum/Macarum-#{version}.dmg"
   name "Macarum"
